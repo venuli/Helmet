@@ -4,7 +4,7 @@
 
 #define WIFI_SSID     "abc"
 #define WIFI_PASSWORD "venuli1234"
-#define WEB_API_KEY   "AIzaSyAPaoVjCk5hdbWDuF9x5Nn7IK6qwVD_lC8"
+#define WEB_API_KEY   "\"
 #define DATABASE_URL  "https://widearea-1738a-default-rtdb.asia-southeast1.firebasedatabase.app/"
 #define USER_EMAIL    "venulikalara@gmail.com"
 #define USER_PASS     "12345678"
